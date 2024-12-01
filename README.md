@@ -1,6 +1,6 @@
 
-## Final FRT Project : VitalLife Care 
-This is my FRT Internship project
+## VitalLife Care 
+
 
 ### Project Description Industry: 
 
